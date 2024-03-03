@@ -21,7 +21,7 @@ export default function Contact() {
     document.body.removeChild(downloadLink);
   };
   return (
-    <div className='bg-black text-white flex flex-col items-center p-4 gap-4 h-screen'>
+    <div className='bg-black text-white flex flex-col items-center p-4 pt-4 gap-4 h-screen'>
       <p className='text-4xl font-corleone text-red-700'>What's Next?</p>
       <p className='text-3xl font-bold'> Lets work together.</p>
       <p className='text-justify w-[50%]'>
