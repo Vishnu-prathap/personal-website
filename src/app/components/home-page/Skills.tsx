@@ -2,7 +2,7 @@ import { Image } from "@nextui-org/react";
 
 export default function Skills() {
   return (
-    <div className='bg-black flex flex-col items-center justify-center p-4 h-screen gap-4'>
+    <div className='bg-black flex flex-col items-center justify-center pb-14 h-screen gap-4'>
       <div className='flex flex-row text-start p-4'>
         <p className='text-red-700 font-corleone text-5xl'>
           Skillset Sharper than the Knifeset
