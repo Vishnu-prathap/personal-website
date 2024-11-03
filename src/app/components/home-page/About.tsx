@@ -14,14 +14,14 @@ export default function About() {
       establishment: "Tejas Technological Co.",
       description:
         "Made a client-side web application to assist the client in performing calculations for advanced banking transactions, by using JavaScript and React.js.  Developed a controller platform for an ERP system in Next.JS. and tailwind CSS to showcase the status of particular services deployed in the ERP system. Performed Integration testing along with Regression testing as new features were developed. Assigned and tracked issues using  JIRA for Agile development.",
-      duration: "August, 2023 - Present",
+      duration: "August, 2023 - October, 2024",
     },
     {
       role: "Student Placement Coordinator",
       establishment: "BMS College of Engineering",
       description:
         "Liasoned between the Placement Cell and the students coordinators to ensure smooth placement activities for students across the college.",
-      duration: "January, 2021-August, 2023",
+      duration: "January, 2021 - August, 2023",
     },
   ];
 

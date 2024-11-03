@@ -24,10 +24,10 @@ export default function Contact() {
     <div className='bg-black text-white flex flex-col items-center p-4 pt-4 gap-4 h-screen'>
       <p className='text-4xl font-corleone text-red-700'>What's Next?</p>
       <p className='text-3xl font-bold'> Lets work together.</p>
-      <p className='text-justify w-[50%]'>
+      <p className='text-center w-[50%]'>
         If you'd like to talk about a project you want help with or need an
         advice about product design, just drop me a message at{" "}
-        <span className='font-extrabold'>vishnuprathap302001@gmail.com.</span>{" "}
+        <span className='font-extrabold'>vishnu.prathapjrvp@gmail.com.</span>{" "}
         I'm currently Available for any frontend projects, dashboard designs or
         landing pages gigs.
       </p>
